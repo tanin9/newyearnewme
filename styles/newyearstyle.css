@@ -1,0 +1,205 @@
+.open-sans {
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.work-sans {
+    font-family: "Work Sans", sans-serif;
+
+}
+
+body {
+    margin: 0 auto;
+    font-family: "Work Sans";
+    max-width: 1600px;
+
+}
+
+.green {
+    color: #16D887;
+}
+
+.btn {
+    padding: 21px 26px;
+    background-color: #F15B22;
+    border: none;
+    border-radius: 5px;
+    color: #ffff;
+    justify-content: flex-end;
+
+}
+
+.btn2 {
+    padding: 21px 26px;
+    color: #F15B22;
+    border: none;
+    border-radius: 5px;
+    background-color: #ffff;
+    justify-content: flex-end;
+
+}
+
+header .banner .banner-content {
+
+    margin: auto;
+    padding: 230px;
+    padding-bottom: 150px;
+    align-items: flex-end;
+
+}
+
+.banner {
+    background-image: url('/images/banner/banner1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1600px;
+    margin: 0 auto;
+
+}
+
+.banner .heading h1 {
+
+    font-size: 65px;
+    text-align: end;
+
+}
+
+.banner .banner-content .heading {
+
+    max-width: 494px;
+}
+
+
+
+.banner .heading p {
+    text-align: end;
+
+}
+
+.banner .heading button {
+    margin-left: 375px;
+}
+
+.previous-year {
+    /* width: 1072px; */
+    margin: 123px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.previous-container {
+    margin: 87px;
+
+}
+
+.previous-container ul {
+
+    padding: 0;
+    list-style: none;
+
+}
+
+.previous-year .previous-container {
+    max-width: 416px;
+    margin-top: 180px;
+}
+
+.previous-year .previous-container h1 {
+    max-width: 280px;
+    margin-top: 100px;
+}
+ 
+.plan {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 1200px;
+}
+
+.plan-card-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.banner2 {
+    max-width: 1200px;
+    min-height: 300px;
+    margin: 130px auto;
+    background: url(/images/gradient2.png), url(/images/watch.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, center;
+    background-size: cover;
+}
+
+.banner2 .banner2-container {
+    padding: 60px 64px;
+    max-width: 500px;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.banner2 .banner2-container button {
+    padding: 20px 34px;
+    max-width: 500px;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.footer-container {
+    background-color: #151414;
+    display: flex;
+    color: white;
+    margin: 0 auto;
+    padding: 130px 230px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footer-container .futue-container {
+    max-width: 500px;
+}
+
+.footer-container .futue-container .image-container {
+    max-width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.subscribe {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.subscribe h3 {
+
+    font-size: 25px;
+    font-weight: 600px;
+
+}
+
+.subscribe button {
+
+    width: 160px;
+
+}
+
+.subscribe input[type="text"] {
+
+    padding: 21px;
+    border: 1px solid white;
+    background-color: #151414;
+    border-radius: 5px;
+
+}
