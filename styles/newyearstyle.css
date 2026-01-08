@@ -132,7 +132,7 @@ header .banner .banner-content {
     max-width: 1200px;
     min-height: 300px;
     margin: 130px auto;
-    background: url('/images/assets/Rectangle\ 4.png'),url('/images/assets/Rectangle\ 3.png');
+    background: url('/images/assets/Rectangle_4.png'),url('/images/assets/Rectangle_3.png');
     background-repeat: no-repeat, no-repeat;
     background-position: center, center;
     background-size: cover;
