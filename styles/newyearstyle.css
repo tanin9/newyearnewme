@@ -36,6 +36,10 @@ body {
     border-radius: 5px;
     background-color: #ffff;
     justify-content: flex-end;
+     padding: 20px 34px;
+    max-width: 500px;
+    font-size: 20px;
+    font-weight: 600;
 
 }
 
@@ -147,13 +151,7 @@ header .banner .banner-content {
 
 }
 
-.banner2 .banner2-container button {
-    padding: 20px 34px;
-    max-width: 500px;
-    font-size: 20px;
-    font-weight: 600;
 
-}
 
 .footer-container {
     background-color: #151414;
